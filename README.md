@@ -35,7 +35,7 @@ A parent company in the sports and fitness equipment space acquired a smaller ch
 
 ## Architecture
 
-![Solution Architecture](architecture/architecture_diagram.svg)
+![Solution Architecture](architecture_diagram.png)
 
 **Flow:**
 
