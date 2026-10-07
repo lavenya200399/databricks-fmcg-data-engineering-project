@@ -192,7 +192,7 @@ The `fmcg_dashboard` ("Performance Overview") is built on `vw_fact_orders_enrich
 - Top variants by revenue
 - Product price vs quantity (bubble/scatter)
 
-The full export is in [`dashboard/fmcg_dashboard.pdf`](dashboard/fmcg_dashboard.pdf). **Genie** is also enabled on the same data so business users can ask questions in natural language.
+The full export is in [`dashboard/fmcg_dashboard.pdf`](dashboard.pdf). **Genie** is also enabled on the same data so business users can ask questions in natural language.
 
 ---
 
