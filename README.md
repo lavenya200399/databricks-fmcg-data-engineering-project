@@ -62,7 +62,7 @@ A parent company in the sports and fitness equipment space acquired a smaller ch
 | Governance | Unity Catalog (`fmcg` catalog: `bronze`, `silver`, `gold` schemas) |
 | Orchestration | Lakeflow Jobs |
 | Serving | Databricks AI/BI Dashboards, Genie |
-| Diagramming | Excalidraw |
+
 
 ---
 
